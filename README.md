@@ -24,11 +24,11 @@ Website: [JobWind](https://jobwind.live/)
 
 ![Web capture_28-1-2023_5526_jobwind live](https://user-images.githubusercontent.com/98567144/215225525-602b6d3a-3219-4d4e-8315-520f5d4361e5.jpeg)
 
-## System Diagram ##
+### System Diagram ###
 
 ![Picture1](https://user-images.githubusercontent.com/98567144/215226379-ef0ca2c5-e510-4ccb-b143-ebb1dabb2077.png)
 
-## Cloud Architecture ##
+### Cloud Architecture ###
 
 ![Picture2](https://user-images.githubusercontent.com/98567144/215226533-ee99cfe8-51ea-4cba-bb65-b93d7facd533.png)
 
