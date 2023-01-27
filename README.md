@@ -10,4 +10,4 @@
 * We will create a variation of the site that takes their unique skills, abilities, and other personal traits information from job applicants into consideration. 
 * As a result, we will also give job search assistance that is highly personalized and takes into consideration the job seeker's unique position.
 
-Website:https://jobwind.live/
+Website: https://jobwind.live/
