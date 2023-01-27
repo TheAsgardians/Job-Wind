@@ -14,9 +14,9 @@ Website: [JobWind](https://jobwind.live/)
 
 ## Screenshots ##
 
-# Home #
+### Home ###
 ![Screenshot 2023-01-28 045831](https://user-images.githubusercontent.com/98567144/215225439-1f4ef69f-2972-4d82-be9c-5f3a38868423.png)
-# Login & Register #
+### Login & Register ###
 ![Screenshot 2023-01-28 050357](https://user-images.githubusercontent.com/98567144/215225479-42c0a095-435a-4f94-b0b3-4f269b492554.png)
 #![Screenshot 2023-01-28 050415](https://user-images.githubusercontent.com/98567144/215225490-5e7be0d1-9c2b-4d2a-bfef-bcd248defedf.png)
 
