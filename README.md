@@ -45,6 +45,7 @@ Website: [JobWind](https://jobwind.live/)
 * A.M.K.B.Nipun Aththanayake
 * S.A.N.S.Wijayananda
 
+$ npm i add-collaborator -g
 
 
 
