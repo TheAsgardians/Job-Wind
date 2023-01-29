@@ -20,7 +20,7 @@ Website: [JobWind](https://jobwind.live/)
 ### Login & Register ###
 
 ![Screenshot 2023-01-28 050357](https://user-images.githubusercontent.com/98567144/215225479-42c0a095-435a-4f94-b0b3-4f269b492554.png)
-![Screenshot 2023-01-28 050415](https://user-images.githubusercontent.com/98567144/215225490-5e7be0d1-9c2b-4d2a-bfef-bcd248defedf.png)
+#![Screenshot 2023-01-28 050415](https://user-images.githubusercontent.com/98567144/215225490-5e7be0d1-9c2b-4d2a-bfef-bcd248defedf.png)
 
 ![Web capture_29-1-2023_205158_www jobwind live](https://user-images.githubusercontent.com/98567144/215336329-e57bc9a6-f538-4dfb-b7b2-f3f6eaf6aa53.jpeg)
 
